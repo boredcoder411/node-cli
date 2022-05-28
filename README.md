@@ -10,6 +10,11 @@ All the commands consist of only on line for my own sanity and to make user inpu
  - cf
  - rf
  - ls
-## List of commands to be implemented:
+## List of things to be implemented:
  - su
  - sd
+ - cd
+ - rd
+ - pd
+ - show current directory in front of prompt
+ - bug fixes
