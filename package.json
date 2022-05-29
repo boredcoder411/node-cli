@@ -1,0 +1,19 @@
+{
+  "name": "nodecli",
+  "version": "1.0.0",
+  "description": "a simple shell for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "pkg index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boredcoder411/node-cli.git"
+  },
+  "author": "boredcoder411",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boredcoder411/node-cli/issues"
+  },
+  "homepage": "https://github.com/boredcoder411/node-cli#readme"
+}
